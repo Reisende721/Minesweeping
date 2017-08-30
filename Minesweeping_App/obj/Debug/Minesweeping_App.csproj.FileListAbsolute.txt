@@ -1,0 +1,12 @@
+E:\Code\visual studio 2017\Projects\Minesweeping_App\Minesweeping_App\bin\Debug\Minesweeping_App.exe.config
+E:\Code\visual studio 2017\Projects\Minesweeping_App\Minesweeping_App\bin\Debug\Minesweeping_App.exe
+E:\Code\visual studio 2017\Projects\Minesweeping_App\Minesweeping_App\bin\Debug\Minesweeping_App.pdb
+E:\Code\visual studio 2017\Projects\Minesweeping_App\Minesweeping_App\obj\Debug\Minesweeping_App.Form_Main.resources
+E:\Code\visual studio 2017\Projects\Minesweeping_App\Minesweeping_App\obj\Debug\Minesweeping_App.Properties.Resources.resources
+E:\Code\visual studio 2017\Projects\Minesweeping_App\Minesweeping_App\obj\Debug\Minesweeping_App.csproj.GenerateResource.Cache
+E:\Code\visual studio 2017\Projects\Minesweeping_App\Minesweeping_App\obj\Debug\Minesweeping_App.exe
+E:\Code\visual studio 2017\Projects\Minesweeping_App\Minesweeping_App\obj\Debug\Minesweeping_App.pdb
+E:\Code\visual studio 2017\Projects\Minesweeping_App\Minesweeping_App\obj\Debug\Minesweeping_App.Form_Over.resources
+E:\Code\visual studio 2017\Projects\Minesweeping_App\Minesweeping_App\obj\Debug\Minesweeping_App.Form_Set.resources
+E:\Code\visual studio 2017\Projects\Minesweeping_App\Minesweeping_App\obj\Debug\Minesweeping_App.csprojResolveAssemblyReference.cache
+E:\Code\visual studio 2017\Projects\Minesweeping_App\Minesweeping_App\obj\Debug\Minesweeping_App.Form_Challenge.resources
